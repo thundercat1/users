@@ -1,0 +1,14 @@
+{
+    "users": [
+        {
+        "id": 1,
+        "firstName": "Michael",
+        "lastName": "Haines",
+        "companyID": "asdf1234"
+      }
+    ],
+    "companies": {
+        "id": "asdf1234",
+        "name": "typicode"
+    }
+  }
