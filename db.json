@@ -1,14 +1,48 @@
 {
     "users": [
         {
-        "id": 1,
-        "firstName": "Michael",
-        "lastName": "Haines",
-        "companyID": "asdf1234"
-      }
+            "id": 1,
+            "firstName": "Percy",
+            "lastName": "Weatherman",
+            "companyID": "asdf1234"
+        },
+        {
+            "id": 3,
+            "firsName": "York",
+            "lastName": "Hastings",
+            "companyID": "asdf1243"
+        },
+        {
+            "id": 2,
+            "firstName": "Arlen",
+            "lastName": "Little",
+            "companyID": "asdf1234"
+        },
+        {
+            "id": 5,
+            "firstName": "Max",
+            "lastName": "Spectre",
+            "companyID": "bb893"
+        },
+        {
+            "id": 4,
+            "firstName": "Rosie",
+            "lastName": "Claymore",
+            "companyID": "erty3456"
+        },
     ],
-    "companies": {
-        "id": "asdf1234",
-        "name": "typicode"
-    }
-  }
+    "companies": [
+        {
+            "id": "asdf1234",
+            "name": "IcaRush Deliveries"
+        },
+        {
+            "id": "po096",
+            "name": "Zapotech"
+        },
+        {
+            "id": "erty3456",
+            "name": "Quid Factory"
+        }
+    ]
+}
